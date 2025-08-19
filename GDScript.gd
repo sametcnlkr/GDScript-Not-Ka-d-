@@ -269,7 +269,7 @@ func DongulerIcinFonksiyon() -> void:
 # Tum kodu class yapmak istersek "class_name sinif_adi" anahtar kelimesini kullaniriz.
 # Eger kod icinde classlar olusturmak istersek "class sinif_adi" anahtar kelimesini kullaniriz.
 # OOP dillerde oldugu gibi classlar genisletilebilir, genisletildigi sinifin iceriklerini kullanabilir ve
-# eklemer yapabilir. Ayrica override ozelligi yani dahil edilen sinifin fonksiyonunu gecersiz birakabilir,
+# eklemeler yapabilir. Ayrica override ozelligi yani dahil edilen sinifin fonksiyonunu gecersiz birakabilir,
 # veya genisletilebilir.
 # Godotta bir sinifin tum icerikleri varsayilan olarak publictir ve private yapilamaz.
 
