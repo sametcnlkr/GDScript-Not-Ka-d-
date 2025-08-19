@@ -176,7 +176,7 @@ func IkiParametreliFonksiyon(varsayilanDegeriYok:int, varsayilanDegeriVar:int = 
 	
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # KONTROLLER
-# Herhangi bir programlama dilindeki gibi Godottada kontrol operatorleri vardir.
+# Herhangi bir programlama dilindeki gibi Godottada kontrol yapilari vardir.
 # If, else, elif, switch case
 func KontrollerIcinFonksiyon() -> void:
 	var a:int = 0
