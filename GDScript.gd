@@ -233,7 +233,7 @@ func DongulerIcinFonksiyon() -> void:
 	for i:int in range(0, 20, 2): # 0'dan 20'ye kadar ikiser ikiser git.
 		print(i) # Son deger 18'dir cunku 20 dahil degildir.
 	
-	# Her iki dongude break ve continue anahtar kelimelerine tepki verir.
+	# Her iki dongu de break ve continue anahtar kelimelerine tepki verir.
 	# Bu for dongusundeki ilk kontrol i nin 5 e esitligine bakar. Eger 5 e esitse sonraki print fonksiyonu
 	# Calismadan dongu sonlandirilir.
 	for i:int in 10:
