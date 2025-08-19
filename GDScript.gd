@@ -1,4 +1,4 @@
-class_name BuKodArtikTekBirClassaAit extends Node
+class_name BuKodAyniZamandaBuClasstir extends Node
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # DEGISKEN TANIMLARI
