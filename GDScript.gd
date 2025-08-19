@@ -281,7 +281,7 @@ func DongulerIcinFonksiyon() -> void:
 # Insan classi Bagir fonksiyonuna sahiptir ve konsola yazi yazdirir.
 # Samet class ise Insan classini devr alir ve ondan genisletilir. Yani Insan'in icerdigi her seye
 # Samet erisebilir ve yeni ozellikler ekleyebilir.
-# Ayrica Insan fonksiyonunu override etmistir. Ayni isime sahip fonksiyona yeni bir islev kazandirmistir.
+# Ayrica Insanin Bagir() fonksiyonunu override etmistir. Ayni isime sahip fonksiyona yeni bir islev kazandirmistir.
 # Eger super() fonksiyonunu kullanirsa dahil ettigi classin fonksiyonunu da cagirabilir.
 # Kullanmaz ise tam anlamiyla override yani ustune yazma yapmistir ve yeni bir amac katmistir.
 # Ayrica extends anahtar kelimesinden sonra direkt olarak bir class yerine bir script yolu da verilebilir.
