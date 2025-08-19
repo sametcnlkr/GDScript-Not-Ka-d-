@@ -299,7 +299,7 @@ class Samet extends Insan:
 # GDScriptte Classlar soyut ve somut olarak 2 ye ayrilirlar. Soyut classlar cogaltilamazlar. Yani aslinda
 # OOP dillerdeki static classlar gibidir. Direkt olarak ozellikleri kullanilabilir ama kendileri cogaltilamazlar.
 # Asagidaki FileAccess classinin cogaltilmaya calisilmasi buna bir ornektir.
-# GDScript programcisi olarak godot su anda soyut classlar olusturamayiz. Fakat Godot 4.5 ile bu da mumkun olacak.
+# GDScript programcisi olarak godotta su anda soyut classlar olusturamayiz. Fakat Godot 4.5 ile bu da mumkun olacak.
 # O zamana kadar olusturdugumuz tum classlar somut classlardir.
 func ClasslarIcinFonksiyon() -> void:
 	#var F:FileAccess = FileAccess.new()
