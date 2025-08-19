@@ -85,7 +85,7 @@ enum Sehirlerin_Plakalari {
 
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # DICTONARY
-# Sozlukler icinde bircok veriyi barindirilan bilen yapilardir. Kisacasi JSON formati gibi veri saklamaya yarar.
+# Sozlukler icinde bircok veriyi barindirabilen yapilardir. Kisacasi JSON formati gibi veri saklamaya yarar.
 # Anahtar ve deger yapisi mevcuttur (Key -> Value). Bir anahtar olur ve ayni isimde baska bir anahtar olamaz.
 # Anahtar ise bir degere sahiptir. Bu hem basit bir integer olabilir hem de daha karmasik bir sozluk olabilir.
 
